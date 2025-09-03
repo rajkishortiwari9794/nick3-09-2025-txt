@@ -26,11 +26,11 @@ MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://ankush23:JYzSGlbjpFezDSWH
 WITHOUT_LOGS = int(os.environ.get("WITHOUT_LOGS", "-1002829170533"))
 PREMIUM_LOGS = WITHOUT_LOGS
 # -----------------------------------------------
-join = '<a href="https://t.me/UGExtractorBot"> 𝗨 𝗚 ♡ Exᴛʀᴀᴄᴛᴏʀ </a>'
+join = '<a href="https://t.me/nikhil_bhai_contact_bot"> Nikhil ♡ Exᴛʀᴀᴄᴛᴏʀ </a>'
 # -----------------------------------------------
 
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "ItsUGBOT" #without @
+ADMIN_BOT_USERNAME = "@surajtxtnick_bot" #without @
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://img.freepik.com/premium-photo/anime-portrait_961307-43516.jpg?w=1060")
 
