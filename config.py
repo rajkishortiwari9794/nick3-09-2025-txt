@@ -32,6 +32,6 @@ join = '<a href="https://t.me/UGExtractorBot"> 𝗨 𝗚 ♡ Exᴛʀᴀᴄᴛᴏ
 # -----------------------------------------------
 ADMIN_BOT_USERNAME = "ItsUGBOT" #without @
 
-THUMB_URL = os.environ.get("THUMB_URL", "https://i.ibb.co/twG550x8/IMG-20250627-030801.jpg")
+THUMB_URL = os.environ.get("THUMB_URL", "https://img.freepik.com/premium-photo/anime-portrait_961307-43516.jpg?w=1060")
 
 
