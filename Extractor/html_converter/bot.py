@@ -809,7 +809,7 @@ def generate_html(file_name, videos, pdfs, others):
 
             <a href="https://t.me/+HVvpqDnRjFE3NDhl" class="text-decoration-none">
                 <span class="badge bg-warning">
-                    <i class="fas fa-bolt"></i>UG 
+                    <i class="fas fa-bolt"></i>papa
                 </span>
             </a>
         </p>
@@ -875,7 +875,7 @@ def generate_html(file_name, videos, pdfs, others):
         f'<div class="item-actions">'
         f'<button class="btn-action view" onclick="viewPDF(\'{obfuscate_url(url)}\')" title="View PDF">'
         f'<i class="fas fa-eye"></i></button>'
-        f'<button class="btn-action download" onclick="downloadFile(\'{obfuscate_url(url)}\', \'{name} - @ItsUGBot.pdf\')" title="Download PDF">'
+        f'<button class="btn-action download" onclick="downloadFile(\'{obfuscate_url(url)}\', \'{name} - @nikhil_bhai.pdf\')" title="Download PDF">'
         f'<i class="fas fa-download"></i></button>'
         f'</div>'
         f'</div>'
