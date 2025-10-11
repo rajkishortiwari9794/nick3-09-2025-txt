@@ -10,7 +10,7 @@ API_HASH = os.environ.get("API_HASH","31c9bbed9c688b89736d94da7e89653b")
 # ------------------------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Nikhilbhaiextractorbot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Anjanik_ext_bot")
 BOT_TEXT = "𝗨 𝗚 ♡ Exᴛʀᴀᴄᴛᴏʀ"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "7445620075"))
@@ -26,11 +26,11 @@ MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://ankush23:JYzSGlbjpFezDSWH
 WITHOUT_LOGS = int(os.environ.get("WITHOUT_LOGS", "-1003144196590"))
 PREMIUM_LOGS = WITHOUT_LOGS
 # -----------------------------------------------
-join = '<a href="https://t.me/Studentzzzbot"> Nikhil ♡ Exᴛʀᴀᴄᴛᴏʀ </a>'
+join = '<a href="http://t.me/Anjanik_ext_bot"> Nikhil ♡ Exᴛʀᴀᴄᴛᴏʀ </a>'
 # -----------------------------------------------
 
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "Nikhilbhaiextractorbot" #without @
+ADMIN_BOT_USERNAME = "Anjanik_ext_bot" #without @
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://img.freepik.com/premium-photo/anime-portrait_961307-43516.jpg?w=1060")
 
