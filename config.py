@@ -11,7 +11,7 @@ API_HASH = os.environ.get("API_HASH","31c9bbed9c688b89736d94da7e89653b")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "8325320192:AAHz_ctQtWWqHvTDzjmmj0ZUwfAN0csPkJY")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Bsjsjsjsvbot")
-BOT_TEXT = "NIKHIL BHAI Exᴛʀᴀᴄᴛᴏʀ"
+BOT_TEXT = "STUDY BHAI Exᴛʀᴀᴄᴛᴏʀ"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "7445620075"))
 # ------------------------------------------------
