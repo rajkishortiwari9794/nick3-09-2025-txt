@@ -10,7 +10,7 @@ API_HASH = os.environ.get("API_HASH","31c9bbed9c688b89736d94da7e89653b")
 # ------------------------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "8557473851:AAEAVRr1Tm1mdzmieRpxPfcC-EjuAb1j5WA")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Bsjsjsjsvbot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Studywarriors1bot")
 BOT_TEXT = "STUDY BHAI Exᴛʀᴀᴄᴛᴏʀ"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "8206905738"))
@@ -26,11 +26,11 @@ MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://ankush23:JYzSGlbjpFezDSWH
 WITHOUT_LOGS = int(os.environ.get("WITHOUT_LOGS", "-1003204162230"))
 PREMIUM_LOGS = WITHOUT_LOGS
 # -----------------------------------------------
-join = '<a href="http://t.me/Bsjsjsjsvbot"> STUDY ♡ Exᴛʀᴀᴄᴛᴏʀ </a>'
+join = '<a href="http://t.me/Studywarriors1bot"> STUDY ♡ Exᴛʀᴀᴄᴛᴏʀ </a>'
 # -----------------------------------------------
 
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "Bsjsjsjsvbot" #without @
+ADMIN_BOT_USERNAME = "Studywarriors1bot" #without @
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://img.freepik.com/premium-photo/anime-portrait_961307-43516.jpg?w=1060")
 
