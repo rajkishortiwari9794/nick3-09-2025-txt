@@ -23,7 +23,7 @@ CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003202059760"))
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://ankush23:JYzSGlbjpFezDSWH@cluster0.ulzzd1m.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-WITHOUT_LOGS = int(os.environ.get("WITHOUT_LOGS", "-1003144196590"))
+WITHOUT_LOGS = int(os.environ.get("WITHOUT_LOGS", "-1003204162230"))
 PREMIUM_LOGS = WITHOUT_LOGS
 # -----------------------------------------------
 join = '<a href="http://t.me/Bsjsjsjsvbot"> STUDY ♡ Exᴛʀᴀᴄᴛᴏʀ </a>'
