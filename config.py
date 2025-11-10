@@ -26,7 +26,7 @@ MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://ankush23:JYzSGlbjpFezDSWH
 WITHOUT_LOGS = int(os.environ.get("WITHOUT_LOGS", "-1003204162230"))
 PREMIUM_LOGS = WITHOUT_LOGS
 # -----------------------------------------------
-join = '<a href="http://t.me/Botusername"> STUDY ♡ Exᴛʀᴀᴄᴛᴏʀ </a>'
+join = '<a href="http://t.me/Botusername"> NIKHIL ♡ Exᴛʀᴀᴄᴛᴏʀ </a>'
 # -----------------------------------------------
 
 # -----------------------------------------------
