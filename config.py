@@ -32,6 +32,6 @@ join = '<a href="http://t.me/XYExtractorbot"> TRIPATHIJI ♡ Exᴛʀᴀᴄᴛᴏ
 # -----------------------------------------------
 ADMIN_BOT_USERNAME = "XYExtractorbot" #without @
 
-THUMB_URL = os.environ.get("THUMB_URL", "https://img.freepik.com/premium-photo/anime-portrait_961307-43516.jpg?w=1060")
+THUMB_URL = os.environ.get("THUMB_URL", "https://graph.org/file/c661e475fb333450c482b-c6066e42179d4de602.jpg")
 
 
