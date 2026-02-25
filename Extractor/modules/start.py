@@ -1020,7 +1020,7 @@ async def html_to_text_command(client: Client, message: Message):
                 url = requests.utils.unquote(url)
                 text_content += f"{name}:{url}\n"
                 
-        text_content += "\n@GodxBots"
+        text_content += "\n@rdxsaverbot"
                 
         # Save as text file
         txt_path = file_path.rsplit('.', 1)[0] + '.txt'
@@ -1031,7 +1031,7 @@ async def html_to_text_command(client: Client, message: Message):
         await message.reply_document(
             txt_path,
             thumb=thumb_path if thumb_path else None,
-            caption="<blockquote>✅ HTML converted to text format\n🔓 All URLs have been decoded\n\n🤖 @GodxBots</blockquote>"
+            caption="<blockquote>✅ HTML converted to text format\n🔓 All URLs have been decoded\n\n🤖 @rdxsaverbot</blockquote>"
         )
         
         # Cleanup
