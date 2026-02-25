@@ -58,7 +58,7 @@ TIMEOUT = 300  # 5 minutes timeout
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 buttons = InlineKeyboardMarkup([
-    [InlineKeyboardButton("🚀 ᴍᴀᴅᴇ ʙʏ @Study", url="https://t.me/Itsmestudywarriors")],
+    [InlineKeyboardButton("🚀 ᴍᴀᴅᴇ ʙʏ @TRIPATHIJI", url="https://t.me/ItsmeTripathiji")],
 
     # All direct app buttons
     [
